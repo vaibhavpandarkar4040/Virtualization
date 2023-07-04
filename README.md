@@ -16,5 +16,5 @@ Cloud computing providers use virtualization to pool and abstract physical hardw
 - 	Cloud computing takes the use of those resources to another level by delivering access to those components on demand as a service, thus reducing complexity for the end user, cost and burden.
 
 - 	### Resourse
-- 	[Youtube](https://youtube.com/playlist?list=PLBGx66SQNZ8aiuWzEFavDMpQ1RRWsZLZV)
+   [Youtube](https://youtube.com/playlist?list=PLBGx66SQNZ8aiuWzEFavDMpQ1RRWsZLZV)
 
