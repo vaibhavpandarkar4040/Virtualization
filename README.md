@@ -1,6 +1,6 @@
 # Virtualization
 
- ![Virtualization](Image/readme.png)
+ [Virtualization](Image/readme.png)
  
 In the context of cloud computing, virtualization refers to the technique of creating virtual instances of computing resources, such as virtual machines (VMs) or containers, within a cloud infrastructure. These virtual instances can emulate the functionality of physical servers, storage devices, networks, or other resources.
 
@@ -16,5 +16,5 @@ Cloud computing providers use virtualization to pool and abstract physical hardw
 - 	Cloud computing takes the use of those resources to another level by delivering access to those components on demand as a service, thus reducing complexity for the end user, cost and burden.
 
 - 	### Resourse
-- 	![Youtube](https://youtube.com/playlist?list=PLBGx66SQNZ8aiuWzEFavDMpQ1RRWsZLZV)
+- 	[Youtube](https://youtube.com/playlist?list=PLBGx66SQNZ8aiuWzEFavDMpQ1RRWsZLZV)
 
