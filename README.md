@@ -15,3 +15,6 @@ Cloud computing providers use virtualization to pool and abstract physical hardw
 - 	Virtualization by itself allows an organization to utilize and effectively use it‘s IT resources.
 - 	Cloud computing takes the use of those resources to another level by delivering access to those components on demand as a service, thus reducing complexity for the end user, cost and burden.
 
+- 	## Resourse
+- 	
+
